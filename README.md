@@ -8,7 +8,10 @@ understand the content of an image and generate a coherent and relevant descript
 
 To perform Image Captioning we will require two deep learning models combined into one for the training purpose. <br>
 CNNs extract the features from the image of some vector size aka the vector embeddings. The size of these embeddings depend on the type of pretrained network being used for the feature extraction
-LSTMs are used for the text generation process. The image embeddings are concatenated with the word embeddings and passed to the LSTM to generate the next word
+LSTMs are used for the text generation process. The image embeddings are concatenated with the word embeddings and passed to the LSTM to generate the next word <br>
+
+![image](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/9a0cdfca-e1f0-4284-b54d-6566b7776b3e)
+
 
 ## Dataset
 
