@@ -22,3 +22,21 @@ Kaggle: [Flickr 8k Dataset](https://www.kaggle.com/datasets/adityajn105/flickr8k
 Hugging Face: [Flickr 8k Dataset](https://huggingface.co/datasets/jxie/flickr8k)
 
 <hr>
+
+## Caption Generation (Good Examples)
+![output_37_3](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/e105bebb-94fc-4a84-bc9e-a2c678e7936a) <br>
+![output_39_2](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/ec2d7cd4-f258-409e-90cb-1e707d391168) <br>
+![output_39_9](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/01e4523a-b31e-469d-8de0-2deb9c3b096b) <br>
+![output_37_1](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/03f75b9a-82f8-451c-afef-15cf6e244266) <br>
+
+<hr>
+
+## Caption Generation (Bad Examples)
+![output_37_2](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/a874e8dc-c9e6-4e2f-a16f-5c85468cd016) <br>
+![output_39_8](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/ab5f8e24-d663-479e-95df-cf8c45f7e030) <br>
+![output_39_7](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/f970ee0e-8bd6-421b-942d-6c0f796e9bac) <br>
+
+
+
+
+
