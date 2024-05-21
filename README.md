@@ -23,6 +23,12 @@ Hugging Face: [Flickr 8k Dataset](https://huggingface.co/datasets/jxie/flickr8k)
 
 <hr>
 
+## Notebook
+
+Link to Kaggle notebook: [Image-Caption-Generator.ipynb]()
+
+<hr>
+
 ## Caption Generation (Good Examples)
 ![output_37_3](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/e105bebb-94fc-4a84-bc9e-a2c678e7936a) <br>
 ![output_39_2](https://github.com/YoussefAboelwafa/Image-Caption-Generator/assets/96186143/ec2d7cd4-f258-409e-90cb-1e707d391168) <br>
