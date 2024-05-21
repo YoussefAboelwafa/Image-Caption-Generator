@@ -1,5 +1,5 @@
 dataset/Images
-
+dataset/captions.txt
 test.py
 ps.py
 .ipynb_checkpoints
