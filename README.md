@@ -25,7 +25,7 @@ Hugging Face: [Flickr 8k Dataset](https://huggingface.co/datasets/jxie/flickr8k)
 
 ## Notebook
 
-Link to Kaggle notebook: [Image-Caption-Generator.ipynb]()
+Link to Kaggle notebook: [Image-Caption-Generator_CNN-LSTM (PyTorch)](https://www.kaggle.com/code/youssefaboelwafa/image-caption-generator-cnn-lstm-pytorch)
 
 <hr>
 
